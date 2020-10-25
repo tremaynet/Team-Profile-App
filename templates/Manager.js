@@ -1,18 +1,18 @@
 const Employee = require("./Employee");
 
 
-class Engineer extends Employee {
-    constructor(name, id, email, title) {
+class Manager extends Employee {
+    constructor(name, id, email, officeNumber, title) {
         super(name, id, email);
-        this.github = github;
+        this.officeNumber = officeNumber;
         this.title = title;
-    }
-    getGithub() {
-        return this.getGithub;
     }
     getRole() {
         return this.title;
     }
+    getOfficenumber() {
+        return this.officeNumber;
+    }
 }
 
-modeule.exports = Engineer;
+modeule.exports = Manager;
