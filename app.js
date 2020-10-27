@@ -188,7 +188,7 @@ async function run() {
             .text {
                 padding: 15px;
                 border-radius: 6px;
-                background-color: lightskyblue;
+                background-color: rgb(64, 65, 66);
                 color: black;
                 margin: 15px;
             }
