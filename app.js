@@ -220,7 +220,7 @@ async function run() {
 
 
     console.log(html);
-    fs.writeFile('team.html', html, function (err) {
+    fs.writeFile('./output/team.html', html, function (err) {
     if (err) throw err;
     console.log('File is created successfully.');
     });
