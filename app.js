@@ -168,8 +168,8 @@ async function run() {
      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
      <title>Document</title>
 
-                <style>
-                .row {
+        <style>
+            .row {
                 display: flex;
                 flex-wrap: wrap;
                 justify-content: center;
@@ -178,7 +178,7 @@ async function run() {
             }
 
             .card {
-                 padding: 15px;
+                padding: 15px;
                 border-radius: 6px;
                 background-color: white;
                 color: lightskyblue;
