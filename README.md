@@ -24,13 +24,13 @@ Runs as Node CLI
 
 # Languages used
 HTML 
-![Templates](./templates/employee.html)
-![Templates](./templates/engineer.html)
-![Templates](./templates/intern.html)
-![Templates](./templates/manager.html)
+![](./templates/employee.html)
+![](./templates/engineer.html)
+![](./templates/intern.html)
+![](./templates/manager.html)
 
-CSS - ![inline](app.js)
+CSS - ![](app.js)
 
-JAVASCRIPT ![app](app.js)
+JAVASCRIPT ![](app.js)
 
-![ApplicationFunctionality](./img/team_app.mp4)
+![](./img/team_app.mp4)
