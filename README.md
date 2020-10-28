@@ -24,13 +24,15 @@ Runs as Node CLI
 
 # Languages used
 HTML 
+CSS 
+JAVASCRIPT 
+
+# Application Funcationality
+![](./img/team_app.mp4)
+
+# Components
 ![](./templates/employee.html)
 ![](./templates/engineer.html)
 ![](./templates/intern.html)
 ![](./templates/manager.html)
-
-CSS - ![](app.js)
-
-JAVASCRIPT ![](app.js)
-
-![](./img/team_app.mp4)
+![](app.js)
