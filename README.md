@@ -28,5 +28,5 @@ CSS
 JAVASCRIPT 
 
 # Application Functionality
-![](./img/team_app.mp4)
+[![Alt text](https://youtu.be/svziB8R3OrA)]
 
