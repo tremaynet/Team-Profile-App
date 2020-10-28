@@ -28,5 +28,5 @@ CSS
 JAVASCRIPT 
 
 # Application Functionality
-
+![](./img/team_app.mp4)
 
