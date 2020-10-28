@@ -27,12 +27,6 @@ HTML
 CSS 
 JAVASCRIPT 
 
-# Application Funcationality
-![](./img/team_app.mp4)
+# Application Functionality
 
-# Components
-![](./templates/employee.html)
-![](./templates/engineer.html)
-![](./templates/intern.html)
-![](./templates/manager.html)
-![](app.js)
+
