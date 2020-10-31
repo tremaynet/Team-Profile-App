@@ -28,5 +28,5 @@ CSS
 JAVASCRIPT 
 
 # Application Functionality
-[![Alt text](https://youtu.be/svziB8R3OrA)]
+https://youtu.be/svziB8R3OrA 
 
